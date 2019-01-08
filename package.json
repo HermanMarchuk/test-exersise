@@ -1,0 +1,8 @@
+{
+  "name": "testexercise",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "protractor": "^5.4.2"
+  }
+}
