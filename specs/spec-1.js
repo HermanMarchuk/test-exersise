@@ -5,7 +5,7 @@ var googleResultsPage = require('../pages/google-results-page.js');
 var expect = chai.expect;
 
 describe('Test Exercise', function () {
-    this.timeout(5000000);
+    this.timeout(5000);
 
     before(async function () {
         await googleHomePage.goToHomePage();
