@@ -2,6 +2,7 @@
   "name": "testexercise",
   "dependencies": {
     "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
     "mocha": "^5.2.0",
     "protractor": "^5.4.2"
   }
